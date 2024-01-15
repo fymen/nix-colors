@@ -1,1 +1,3 @@
-{ imports = [ ./colorscheme.nix ]; }
+{ imports = [ ./colorscheme.nix
+              ./colorschemetest.nix
+            ]; }
